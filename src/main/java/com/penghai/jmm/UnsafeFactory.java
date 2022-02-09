@@ -1,4 +1,4 @@
-package com.penghai.one_jmm;
+package com.penghai.jmm;
 
 import java.lang.reflect.Field;
 
